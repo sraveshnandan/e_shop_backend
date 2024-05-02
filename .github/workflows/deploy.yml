@@ -38,5 +38,5 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "sraveshnand-e-shop-back-54"
-          entrypoint: "src"
+          entrypoint: ""
           root: "dist"
